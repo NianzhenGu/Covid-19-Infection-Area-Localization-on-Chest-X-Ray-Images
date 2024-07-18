@@ -3,7 +3,7 @@ Group project for class COMP4026 Computer Vision and Pattern Recognition
 
 Run *main.py* for training and *test_main.py* for testing. 
 
-The model is defined in *sandwich.py*
+The model is defined in *Sandwich.py*
 
 ## Dataset
 In this project, we use the COVID-QU-Ex dataset. It contains 33,920 CXR images including 11,956 Covid images, 11,263 non-Covid infections (viral or bacterial pneumonia), and 10,701 normal images. In each category, it has three kinds of images: original CXR images, ground-truth lung segmentation masks, and ground-truth infection area masks.
